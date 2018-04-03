@@ -6,7 +6,8 @@ We used Trello to get organized, and draw out a plan for our project. You can vi
 
 Here's what the homepage will look like (top)
 ![alt text](/assets/images/homepage.jpg)
-link to website [Develop Me](https://polar-chamber-21961.herokuapp.com/users/11)
+
+Heres a link to website [Develop Me](https://polar-chamber-21961.herokuapp.com/users/11).
 ***
 
 ## Getting Started
